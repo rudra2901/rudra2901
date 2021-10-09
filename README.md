@@ -36,5 +36,5 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rudra2901&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="My github stats" />
 </a>
 <a href="https://github.com/rudra2901">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav127&layout=compact&hide_border=true&hide=Jupyter%20Notebook,Tex&langs_count=8&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra2901&layout=compact&hide_border=true&hide=Jupyter%20Notebook,Tex&langs_count=8&theme=radical" />
 </a>
