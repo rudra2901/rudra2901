@@ -6,10 +6,9 @@
 <a href="https://www.linkedin.com/in/rudra-tiwari-56513b20a/">
   <img align="left" alt="My Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/_why_am_i_here_0.0/">
-  <img align="left" alt="My Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/_why_am_i_here_0.0/" img align="left" alt="My Insta" width="22px" class="fa fa-instagram">
 </a>
-<a href="mailto: rudratiwari2901@gmail.com">
+<a href="mailto: rudratiwari2901@gmail.com" >
   <img align="left" alt="My Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.instagram.com/_why_am_i_here_0.0/">
@@ -24,7 +23,7 @@
 
 ### Hi,  I'm Rudra Tiwari <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px"> 
 
-- 🎓 CSE Undergraduate at NIT Bhopal
+- 🎓 CSE Undergraduate at MANIT Bhopal
 - 🔭 Currently I'm working on my Android Development Skills 
 - 🌱 I’m always ready to collaborate and learn new skills
 -  🖥 Enhancing my tech skills 
