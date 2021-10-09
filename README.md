@@ -1,6 +1,6 @@
 ![Banner](banner.png)
 
-<a href="https://github.com/arnav127">
+<a href="https://github.com/rudra2901">
   <img align="left" alt="My Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" />
 </a>
 <a href="https://www.linkedin.com/in/rudra-tiwari-56513b20a/">
@@ -12,11 +12,11 @@
 <a href="mailto: rudratiwari2901@gmail.com" >
   <img align="left" alt="My Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" />
 </a>
-<a href="https://www.instagram.com/_why_am_i_here_0.0/">
+<a href="https://discordapp.com/users/Pi-Pikachu#7433/">
   <img align="left" alt="My Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" />
 </a>
 
-<a href="https://github.com/arnav127">
+<a href="https://github.com/rudra2901">
     <img src="https://komarev.com/ghpvc/?username=rudra2901" alt="page views" />
 </a>
 
