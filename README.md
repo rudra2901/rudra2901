@@ -32,7 +32,7 @@
 
 ![Metrics](https://metrics.lecoq.io/rudra2901?template=classic&repositories.forks=true&base.header=0&lines=1&config.timezone=Asia%2FCalcutta)
 
-<a href="https://github.com/arnav127">
+<a href="https://github.com/rudra2901">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rudra2901&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="My github stats" />
 </a>
 <a href="https://github.com/rudra2901">
