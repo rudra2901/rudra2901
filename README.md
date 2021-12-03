@@ -28,7 +28,7 @@
 - 🔭 Currently I'm working on my Android Development Skills 
 - 🌱 I’m always ready to collaborate and learn new skills
 -  🖥 Enhancing my tech skills 
-- 📝 [Resume](https://drive.google.com/file/d/1J_USD43X3u-zqY8Y31zkXflUBT0o0JJf/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1Ady6Dpjp2Hr_DqXGBXO8WWKBLDqSHgvn/view?usp=sharing)
 
 ![Metrics](https://metrics.lecoq.io/rudra2901?template=classic&repositories.forks=true&base.header=0&lines=1&config.timezone=Asia%2FCalcutta)
 
