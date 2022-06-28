@@ -22,7 +22,7 @@
 
 <br/>
 
-### Hi,  I'm Rudra Tiwari <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="12px"> 
+### Hi,  I'm Rudra Tiwari <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50"> 
 
 - 🎓 CSE Undergraduate at MANIT Bhopal
 - 🔭 Currently I'm working on my Android Development Skills 
